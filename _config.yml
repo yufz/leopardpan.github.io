@@ -1,7 +1,7 @@
 # Basic
 title: 于福志
 subtitle: 个人站
-description: 欢迎来到我的个人站~
+description: 欢迎访问我的个人博客~
 # 头像里面的标题
 avatarTitle: Samurai、
 # 头像里面的描述
@@ -15,7 +15,7 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726
+    # weibo: 5366874726
     github: yufz
     # twitter:
     mail: yufzjsfl.gmail.com
