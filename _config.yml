@@ -1,7 +1,7 @@
 # Basic
 title: 于福志
 subtitle: 个人站
-description: 欢迎访问我的个人博客~
+description: 欢迎访问我的个人博客
 # 头像里面的标题
 avatarTitle: Lio
 # 头像里面的描述
@@ -10,27 +10,19 @@ url: "http://yufz.github.io"
 
 # Comment
 comment:
-    # disqus: leopard
-    # uyan: 2143225  # 有言id,登录有言官网申请
+    # disqus:
+    # uyan:   # 有言id,登录有言官网申请
 
 # Social
 social:
-    # weibo: 5366874726
+    # weibo:
     github: yufz
     # twitter:
     mail: yufzjsfl.gmail.com
 
 # 百度统计
-# 使用博客模板请去掉或者更换 id
 baidu:
     id: 6d053ea05e912dbe6dcef8d7c3651727
-
-# Google Analytics
-# 使用博客模板请去掉或者更换 id
-# ga:
-    # id: UA-84134159-3
-    # host: auto
-
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
 #
@@ -39,7 +31,6 @@ baidu:
 #
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
-
 
 permalink: /:year/:month/:title/
 # Format
