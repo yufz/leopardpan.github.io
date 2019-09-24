@@ -7,5 +7,3 @@ Android开发者
 
 
 实力缔造辉煌，巅峰绝非偶然！
-
-{% include comments.html %}
