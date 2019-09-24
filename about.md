@@ -5,10 +5,7 @@ title: 关于我
 
 Android开发者
 
-<p>
 
-<p>
-
-<p>
+实力缔造辉煌，巅峰绝非偶然！
 
 {% include comments.html %}
