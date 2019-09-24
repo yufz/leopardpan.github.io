@@ -4,6 +4,7 @@ title: 关于我
 ---
 
 Android开发者
+<!--
 <p>
 技术小白
 <p>
@@ -21,6 +22,6 @@ Android开发者
 <p>
 
 <p>
-
+-->
 
 {% include comments.html %}
